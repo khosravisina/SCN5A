@@ -1,2 +1,2 @@
 # SCN5A
-Data for paper for Atrial fibrillation
+ Dataset for [Novel Therapeutic Targets for Atrial Fibrillation Treatment: Leveraging Machine Learning Approach]
