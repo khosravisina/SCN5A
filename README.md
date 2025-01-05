@@ -1,2 +1,2 @@
 # SCN5A
- Dataset for [Novel Therapeutic Targets for Atrial Fibrillation Treatment: Leveraging Machine Learning Approach]
+ Dataset for Artificial Intelligence Meets Natural Compounds for Atrial Fibrillation Therapeutic Candidates
